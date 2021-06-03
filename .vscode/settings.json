@@ -1,7 +1,9 @@
 {
-	"editor.formatOnSave": true,
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"prettier.singleQuote": true,
-	"prettier.jsxSingleQuote": true,
-	"prettier.arrowParens": "always"
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.arrowParens": "always",
+  "editor.tabSize": 2,
+	"prettier.tabWidth": 2
 }
